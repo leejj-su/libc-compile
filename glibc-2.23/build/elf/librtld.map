@@ -1,0 +1,1947 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__longjmp)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (strchr)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (strcmp)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__strdup)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (strlen)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (strnlen)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (memchr)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (memcmp)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (memmove)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (memset)
+/home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__stpcpy)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os) (__GI_memcpy)
+/home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os) (_wordcopy_fwd_aligned)
+/home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (rawmemchr)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_ssse3)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_sse2_unaligned)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_avx512_no_vzeroupper)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_avx_unaligned)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_avx_unaligned)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_avx512_no_vzeroupper)
+/home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os) (__memset_avx2)
+/home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os) (__x86_data_cache_size)
+/home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__closedir)
+/home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__readdir)
+/home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__rewinddir)
+/home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os) (__getdents)
+/home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__fdopendir)
+/home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__uname)
+/home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__GI__exit)
+/home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__getpid)
+/home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__environ)
+/home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__GI___xstat64)
+/home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__open)
+/home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__libc_read)
+/home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__libc_write)
+/home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__access)
+/home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__close)
+/home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__mmap)
+/home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__munmap)
+/home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__mprotect)
+/home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__lseek)
+/home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+                              /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os (__profil)
+/home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os) (__setitimer)
+/home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os) (__GI_exit)
+/home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os) (__exit_funcs)
+/home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                              /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os) (__GI___call_tls_dtors)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+LOAD /home/jungjae/glibc-2.23/build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000000000    0x1eab5
+ *(.text .stub)
+ .text          0x0000000000000000    0x17a60 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000000050                _dl_initial_error_catch_tsd
+                0x00000000000067c0                _dl_dst_count
+                0x0000000000006870                _dl_dst_substitute
+                0x0000000000007180                _dl_init_paths
+                0x00000000000075c0                _dl_map_object
+                0x0000000000007fc0                _dl_rtld_di_serinfo
+                0x0000000000008ed0                _dl_lookup_symbol_x
+                0x0000000000009fa0                _dl_setup_hash
+                0x000000000000a050                _dl_add_to_namespace_list
+                0x000000000000a0e0                _dl_new_object
+                0x000000000000a480                _dl_try_allocate_static_tls
+                0x000000000000a560                _dl_allocate_static_tls
+                0x000000000000a590                _dl_nothread_init_static_tls
+                0x000000000000a5e0                _dl_protect_relro
+                0x000000000000a640                _dl_reloc_bad_type
+                0x000000000000a710                _dl_relocate_object
+                0x000000000000bf00                _dl_map_object_deps
+                0x000000000000d1a0                _dl_important_hwcaps
+                0x000000000000d940                _dl_fixup
+                0x000000000000db10                _dl_profile_fixup
+                0x000000000000e110                _dl_call_pltexit
+                0x000000000000e220                _dl_signal_error
+                0x000000000000e3c0                _dl_signal_cerror
+                0x000000000000e450                _dl_catch_error
+                0x000000000000e520                _dl_receive_error
+                0x000000000000e6a0                _dl_init
+                0x000000000000e7d0                _dl_sort_fini
+                0x000000000000ea10                _dl_fini
+                0x000000000000eda0                _dl_debug_state
+                0x000000000000eda0                __GI__dl_debug_state
+                0x000000000000edb0                _dl_debug_initialize
+                0x000000000000f420                _dl_sysdep_read_whole_file
+                0x000000000000f4b0                _dl_debug_printf
+                0x000000000000f560                _dl_debug_printf_c
+                0x000000000000f610                _dl_dprintf
+                0x000000000000f6b0                _dl_name_match_p
+                0x000000000000f720                _dl_higher_prime_number
+                0x000000000000fba0                _dl_check_map_versions
+                0x0000000000010060                _dl_check_all_versions
+                0x00000000000100d0                _dl_start_profile
+                0x00000000000108b0                __GI__dl_mcount
+                0x00000000000108b0                _dl_mcount
+                0x0000000000010b10                _dl_resolve_conflicts
+                0x0000000000010f50                _dl_next_tls_modid
+                0x0000000000011050                _dl_count_modids
+                0x00000000000110b0                _dl_determine_tlsoffset
+                0x0000000000011280                __GI__dl_tls_setup
+                0x0000000000011280                _dl_tls_setup
+                0x0000000000011330                _dl_get_tls_static_info
+                0x0000000000011350                _dl_allocate_tls_storage
+                0x00000000000113f0                __GI__dl_allocate_tls_init
+                0x00000000000113f0                _dl_allocate_tls_init
+                0x0000000000011690                __GI__dl_allocate_tls
+                0x0000000000011690                _dl_allocate_tls
+                0x00000000000116d0                _dl_deallocate_tls
+                0x00000000000116d0                __GI__dl_deallocate_tls
+                0x0000000000011760                _dl_update_slotinfo
+                0x0000000000011a00                __GI___tls_get_addr
+                0x0000000000011a00                __tls_get_addr
+                0x0000000000011a40                _dl_tls_get_addr_soft
+                0x0000000000011ac0                _dl_add_to_slotinfo
+                0x0000000000011ba0                _dl_get_origin
+                0x0000000000011d20                _dl_scope_free
+                0x0000000000011df0                _dl_make_stack_executable
+                0x0000000000011df0                __GI__dl_make_stack_executable
+                0x0000000000011e80                _dl_check_caller
+                0x00000000000122b0                __GI__dl_find_dso_for_object
+                0x00000000000122b0                _dl_find_dso_for_object
+                0x00000000000123a0                _dl_open
+                0x00000000000127b0                _dl_show_scope
+                0x0000000000013270                _dl_addr_inside_object
+                0x0000000000013420                _dl_close_worker
+                0x0000000000014380                _dl_close
+                0x0000000000014410                _dl_runtime_resolve_avx512
+                0x0000000000014580                _dl_runtime_profile_avx512
+                0x0000000000014a00                _dl_runtime_resolve_avx
+                0x0000000000014b60                _dl_runtime_profile_avx
+                0x0000000000014fe0                _dl_runtime_resolve_sse
+                0x0000000000015110                _dl_runtime_profile_sse
+                0x0000000000015310                _dl_cache_libcmp
+                0x00000000000153f0                _dl_load_cache_lookup
+                0x00000000000159b0                _dl_unload_cache
+                0x00000000000159f0                _dl_make_tlsdesc_dynamic
+                0x0000000000015cc0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015e80                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015ec0                _dl_unmap
+                0x0000000000015f40                _dl_tlsdesc_return
+                0x0000000000015f50                _dl_tlsdesc_undefweak
+                0x0000000000015f60                _dl_tlsdesc_dynamic
+                0x0000000000016000                _dl_tlsdesc_resolve_rela
+                0x0000000000016070                _dl_tlsdesc_resolve_hold
+                0x00000000000160f0                __get_cpu_features
+                0x0000000000016100                _dl_sysdep_start
+                0x00000000000167b0                _dl_sysdep_start_cleanup
+                0x00000000000167c0                _dl_show_auxv
+                0x0000000000016970                _dl_discover_osversion
+                0x0000000000016b40                _dl_next_ld_env_entry
+                0x0000000000016b90                unsetenv
+                0x0000000000016c00                __libc_memalign
+                0x0000000000016d00                malloc
+                0x0000000000016d10                calloc
+                0x0000000000016d50                free
+                0x0000000000016d80                __sigjmp_save
+                0x0000000000016d90                __strerror_r
+                0x0000000000016e70                __GI___libc_fatal
+                0x0000000000016e70                __libc_fatal
+                0x0000000000016ea0                __GI___chk_fail
+                0x0000000000016ea0                __chk_fail
+                0x0000000000016eb0                __GI___assert_fail
+                0x0000000000016eb0                __assert_fail
+                0x0000000000016f00                realloc
+                0x0000000000016f90                __GI___assert_perror_fail
+                0x0000000000016f90                __assert_perror_fail
+                0x0000000000017000                __strtoul_internal
+                0x00000000000171d0                _itoa
+                0x0000000000017220                __strsep
+                0x0000000000017220                strsep
+                0x0000000000017220                __strsep_g
+                0x00000000000172b0                __brk
+                0x00000000000172b0                brk
+                0x0000000000017300                sbrk
+                0x0000000000017300                __sbrk
+                0x0000000000017390                __getcwd
+                0x0000000000017390                getcwd
+                0x00000000000177f0                openat64
+                0x0000000000017860                __alloc_dir
+                0x0000000000017960                __opendir
+                0x0000000000017960                opendir
+                0x0000000000017a10                __fxstatat
+                0x0000000000017a10                __fxstatat64
+                0x0000000000017a10                __GI___fxstatat64
+ .text          0x0000000000017a60       0xf2 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+                0x0000000000017b20                __libc_check_standard_fds
+ .text          0x0000000000017b52        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ *fill*         0x0000000000017b52        0xe 
+ .text          0x0000000000017b60       0x57 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+                0x0000000000017b60                __sigsetjmp
+                0x0000000000017b60                __GI___sigsetjmp
+ *fill*         0x0000000000017bb7        0x9 
+ .text          0x0000000000017bc0       0x50 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+                0x0000000000017bc0                __longjmp
+ .text          0x0000000000017c10      0x24a /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+                0x0000000000017c10                index
+                0x0000000000017c10                strchr
+                0x0000000000017c40                __strchr_sse2
+                0x0000000000017c40                __GI_strchr
+ *fill*         0x0000000000017e5a        0x6 
+ .text          0x0000000000017e60     0x1479 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+                0x0000000000017e60                strcmp
+                0x0000000000017ea0                __strcmp_sse2
+                0x0000000000017ea0                __GI_strcmp
+ *fill*         0x00000000000192d9        0x7 
+ .text          0x00000000000192e0       0x41 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+                0x00000000000192e0                __GI___strdup
+                0x00000000000192e0                __strdup
+                0x00000000000192e0                strdup
+ *fill*         0x0000000000019321        0xf 
+ .text          0x0000000000019330      0x19c /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+                0x0000000000019330                strlen
+                0x0000000000019330                __GI_strlen
+ *fill*         0x00000000000194cc        0x4 
+ .text          0x00000000000194d0      0x218 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+                0x00000000000194d0                __strnlen
+                0x00000000000194d0                strnlen
+                0x00000000000194d0                __GI___strnlen
+                0x00000000000194d0                __GI_strnlen
+ *fill*         0x00000000000196e8        0x8 
+ .text          0x00000000000196f0      0x344 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+                0x00000000000196f0                __GI_memchr
+                0x00000000000196f0                memchr
+                0x00000000000196f0                __memchr
+ *fill*         0x0000000000019a34        0xc 
+ .text          0x0000000000019a40      0x440 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+                0x0000000000019a40                bcmp
+                0x0000000000019a40                memcmp
+                0x0000000000019a80                __GI_memcmp
+                0x0000000000019a80                __memcmp_sse2
+ .text          0x0000000000019e80      0x1b1 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+                0x0000000000019e80                __GI_memmove
+                0x0000000000019e80                __memmove_sse2
+                0x0000000000019fda                memmove
+                0x0000000000019fda                memcpy@GLIBC_2.2.5
+                0x0000000000019fda                __libc_memmove
+ *fill*         0x000000000001a031        0xf 
+ .text          0x000000000001a040      0x173 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+                0x000000000001a040                memset
+                0x000000000001a090                __bzero
+                0x000000000001a090                bzero
+                0x000000000001a0a0                __memset_tail
+                0x000000000001a0c0                __memset_chk_sse2
+                0x000000000001a0d0                __GI_memset
+                0x000000000001a0d0                __memset_sse2
+ *fill*         0x000000000001a1b3        0xd 
+ .text          0x000000000001a1c0      0x11c /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+                0x000000000001a1c0                stpcpy
+                0x000000000001a1c0                __stpcpy
+                0x000000000001a200                __GI_stpcpy
+                0x000000000001a200                __GI___stpcpy
+                0x000000000001a200                __stpcpy_sse2
+ *fill*         0x000000000001a2dc        0x4 
+ .text          0x000000000001a2e0      0x4e5 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+                0x000000000001a2e0                __new_memcpy
+                0x000000000001a2e0                memcpy@@GLIBC_2.14
+                0x000000000001a350                __memcpy_chk_sse2
+                0x000000000001a360                __memcpy_sse2
+                0x000000000001a360                __GI_memcpy
+ *fill*         0x000000000001a7c5        0xb 
+ .text          0x000000000001a7d0      0x556 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+                0x000000000001a7d0                _wordcopy_fwd_aligned
+                0x000000000001a910                _wordcopy_fwd_dest_aligned
+                0x000000000001aa40                _wordcopy_bwd_aligned
+                0x000000000001abd0                _wordcopy_bwd_dest_aligned
+ *fill*         0x000000000001ad26        0xa 
+ .text          0x000000000001ad30      0x204 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+                0x000000000001ad30                __GI___rawmemchr
+                0x000000000001ad30                __rawmemchr
+                0x000000000001ad30                rawmemchr
+ .text          0x000000000001af34        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ *fill*         0x000000000001af34        0xc 
+ .text          0x000000000001af40      0x2a3 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001af40                __strcmp_sse2_unaligned
+ .text          0x000000000001b1e3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001b1e3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ *fill*         0x000000000001b1e3        0xd 
+ .text          0x000000000001b1f0      0x217 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+                0x000000000001b1f0                __memcpy_sse2_unaligned
+ *fill*         0x000000000001b407        0x9 
+ .text          0x000000000001b410      0x748 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                0x000000000001b410                __memcpy_chk_avx512_no_vzeroupper
+                0x000000000001b420                __memcpy_avx512_no_vzeroupper
+ .text          0x000000000001bb58        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001bb58        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .text          0x000000000001bb58        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .text          0x000000000001bb58        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ *fill*         0x000000000001bb58        0x8 
+ .text          0x000000000001bb60      0x748 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x000000000001bb60                __memmove_chk_avx512_no_vzeroupper
+                0x000000000001bb70                __memmove_avx512_no_vzeroupper
+ .text          0x000000000001c2a8        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001c2a8        0x8 
+ .text          0x000000000001c2b0      0x6b0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001c2b0                __stpcpy_sse2_unaligned
+ .text          0x000000000001c960        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001c960        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001c960        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .text          0x000000000001c960      0x280 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x000000000001c960                __memset_chk_avx512_no_vzeroupper
+                0x000000000001c970                __memset_avx512_no_vzeroupper
+ .text          0x000000000001cbe0      0x5c0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                0x000000000001d170                __cache_sysconf
+ .text          0x000000000001d1a0       0x54 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+                0x000000000001d1a0                __closedir
+                0x000000000001d1a0                closedir
+ *fill*         0x000000000001d1f4        0xc 
+ .text          0x000000000001d200       0xf8 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+                0x000000000001d200                readdir
+                0x000000000001d200                __readdir64
+                0x000000000001d200                __readdir
+                0x000000000001d200                readdir64
+ *fill*         0x000000000001d2f8        0x8 
+ .text          0x000000000001d300       0x93 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+                0x000000000001d300                rewinddir
+                0x000000000001d300                __rewinddir
+                0x000000000001d300                __GI___rewinddir
+ *fill*         0x000000000001d393        0xd 
+ .text          0x000000000001d3a0       0x8d /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+                0x000000000001d3a0                __getdents
+                0x000000000001d3a0                __getdents64
+ *fill*         0x000000000001d42d        0x3 
+ .text          0x000000000001d430       0x9a /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+                0x000000000001d430                fdopendir
+                0x000000000001d430                __fdopendir
+ *fill*         0x000000000001d4ca        0x6 
+ .text          0x000000000001d4d0       0x21 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+                0x000000000001d4d0                uname
+                0x000000000001d4d0                __GI_uname
+                0x000000000001d4d0                __uname
+                0x000000000001d4d0                __GI___uname
+ *fill*         0x000000000001d4f1        0xf 
+ .text          0x000000000001d500       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+                0x000000000001d500                _Exit
+                0x000000000001d500                __GI__exit
+                0x000000000001d500                _exit
+ *fill*         0x000000000001d558        0x8 
+ .text          0x000000000001d560       0x3c /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+                0x000000000001d560                __getpid
+                0x000000000001d560                getpid
+                0x000000000001d560                __GI_getpid
+                0x000000000001d560                __GI___getpid
+ .text          0x000000000001d59c        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ *fill*         0x000000000001d59c        0x4 
+ .text          0x000000000001d5a0       0x4c /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+                0x000000000001d5a0                _xstat
+                0x000000000001d5a0                __xstat64
+                0x000000000001d5a0                __GI___xstat64
+                0x000000000001d5a0                __GI___xstat
+                0x000000000001d5a0                __xstat
+ *fill*         0x000000000001d5ec        0x4 
+ .text          0x000000000001d5f0       0x4c /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+                0x000000000001d5f0                __GI___fxstat
+                0x000000000001d5f0                __GI___fxstat64
+                0x000000000001d5f0                __fxstat64
+                0x000000000001d5f0                _fxstat
+                0x000000000001d5f0                __fxstat
+ *fill*         0x000000000001d63c        0x4 
+ .text          0x000000000001d640       0x4c /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+                0x000000000001d640                __GI___lxstat
+                0x000000000001d640                _lxstat
+                0x000000000001d640                __lxstat
+                0x000000000001d640                __lxstat64
+                0x000000000001d640                __GI___lxstat64
+ *fill*         0x000000000001d68c        0x4 
+ .text          0x000000000001d690       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+                0x000000000001d690                __GI___open64
+                0x000000000001d690                __open
+                0x000000000001d690                __GI_open
+                0x000000000001d690                __GI___open
+                0x000000000001d690                __GI_open64
+                0x000000000001d690                __libc_open
+                0x000000000001d690                open64
+                0x000000000001d690                __GI___libc_open
+                0x000000000001d690                open
+                0x000000000001d690                __open64
+                0x000000000001d699                __open_nocancel
+ *fill*         0x000000000001d6ea        0x6 
+ .text          0x000000000001d6f0       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+                0x000000000001d6f0                __read
+                0x000000000001d6f0                __GI_read
+                0x000000000001d6f0                __libc_read
+                0x000000000001d6f0                __GI___read
+                0x000000000001d6f0                read
+                0x000000000001d6f0                __GI___libc_read
+                0x000000000001d6f9                __read_nocancel
+ *fill*         0x000000000001d74a        0x6 
+ .text          0x000000000001d750       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+                0x000000000001d750                __write
+                0x000000000001d750                __GI_write
+                0x000000000001d750                write
+                0x000000000001d750                __GI___libc_write
+                0x000000000001d750                __GI___write
+                0x000000000001d750                __libc_write
+                0x000000000001d759                __write_nocancel
+ *fill*         0x000000000001d7aa        0x6 
+ .text          0x000000000001d7b0       0x21 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+                0x000000000001d7b0                __GI_access
+                0x000000000001d7b0                __GI___access
+                0x000000000001d7b0                access
+                0x000000000001d7b0                __access
+ *fill*         0x000000000001d7d1        0xf 
+ .text          0x000000000001d7e0      0x110 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+                0x000000000001d850                __fcntl_nocancel
+                0x000000000001d880                __libc_fcntl
+                0x000000000001d880                __GI___libc_fcntl
+                0x000000000001d880                __GI___fcntl
+                0x000000000001d880                __fcntl
+                0x000000000001d880                fcntl
+ .text          0x000000000001d8f0       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+                0x000000000001d8f0                __GI_close
+                0x000000000001d8f0                __GI___libc_close
+                0x000000000001d8f0                __libc_close
+                0x000000000001d8f0                __close
+                0x000000000001d8f0                __GI___close
+                0x000000000001d8f0                close
+                0x000000000001d8f9                __close_nocancel
+ *fill*         0x000000000001d94a        0x6 
+ .text          0x000000000001d950       0xbe /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+                0x000000000001d950                __mmap
+                0x000000000001d950                mmap
+                0x000000000001d950                __mmap64
+                0x000000000001d950                mmap64
+ *fill*         0x000000000001da0e        0x2 
+ .text          0x000000000001da10       0x21 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+                0x000000000001da10                munmap
+                0x000000000001da10                __GI___munmap
+                0x000000000001da10                __GI_munmap
+                0x000000000001da10                __munmap
+ *fill*         0x000000000001da31        0xf 
+ .text          0x000000000001da40       0x21 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+                0x000000000001da40                __mprotect
+                0x000000000001da40                __GI___mprotect
+                0x000000000001da40                __GI_mprotect
+                0x000000000001da40                mprotect
+ *fill*         0x000000000001da61        0xf 
+ .text          0x000000000001da70       0x21 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+                0x000000000001da70                __GI___lseek
+                0x000000000001da70                __GI_lseek64
+                0x000000000001da70                __llseek
+                0x000000000001da70                __GI_llseek
+                0x000000000001da70                __lseek64
+                0x000000000001da70                lseek
+                0x000000000001da70                __libc_lseek64
+                0x000000000001da70                __GI___libc_lseek64
+                0x000000000001da70                __GI___libc_lseek
+                0x000000000001da70                llseek
+                0x000000000001da70                __lseek
+                0x000000000001da70                __GI___lseek64
+                0x000000000001da70                __libc_lseek
+                0x000000000001da70                __GI___llseek
+                0x000000000001da70                __GI_lseek
+                0x000000000001da70                lseek64
+ *fill*         0x000000000001da91        0xf 
+ .text          0x000000000001daa0      0x1ce /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+                0x000000000001daf0                __profil
+                0x000000000001daf0                profil
+ *fill*         0x000000000001dc6e        0x2 
+ .text          0x000000000001dc70        0xb /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+                0x000000000001dc70                __GI___profile_frequency
+                0x000000000001dc70                __profile_frequency
+ *fill*         0x000000000001dc7b        0x5 
+ .text          0x000000000001dc80       0x4c /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001dc80                __lll_lock_wait_private
+                0x000000000001dcb0                __lll_unlock_wake_private
+ *fill*         0x000000000001dccc        0x4 
+ .text          0x000000000001dcd0       0xb9 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+                0x000000000001dcd0                __libc_enable_asynccancel
+                0x000000000001dd30                __libc_disable_asynccancel
+ .text          0x000000000001dd89        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001dd89        0x7 
+ .text          0x000000000001dd90      0x274 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+                0x000000000001ddb0                __libc_sigaction
+                0x000000000001ddb0                __GI___libc_sigaction
+                0x000000000001dfe0                sigaction
+                0x000000000001dfe0                __GI___sigaction
+                0x000000000001dfe0                __sigaction
+ *fill*         0x000000000001e004        0xc 
+ .text          0x000000000001e010       0x21 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+                0x000000000001e010                setitimer
+                0x000000000001e010                __setitimer
+                0x000000000001e010                __GI_setitimer
+                0x000000000001e010                __GI___setitimer
+ *fill*         0x000000000001e031        0xf 
+ .text          0x000000000001e040      0x5c6 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+                0x000000000001e040                pthread_equal
+                0x000000000001e070                pthread_attr_destroy
+                0x000000000001e0a0                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001e0a0                __pthread_attr_init_2_1
+                0x000000000001e0d0                pthread_attr_getdetachstate
+                0x000000000001e100                pthread_attr_setdetachstate
+                0x000000000001e130                pthread_attr_getinheritsched
+                0x000000000001e160                pthread_attr_setinheritsched
+                0x000000000001e190                pthread_attr_getschedparam
+                0x000000000001e1c0                pthread_attr_setschedparam
+                0x000000000001e1f0                pthread_attr_getschedpolicy
+                0x000000000001e220                pthread_attr_setschedpolicy
+                0x000000000001e250                pthread_attr_getscope
+                0x000000000001e280                pthread_attr_setscope
+                0x000000000001e2b0                pthread_condattr_destroy
+                0x000000000001e2e0                pthread_condattr_init
+                0x000000000001e310                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001e310                __pthread_cond_broadcast
+                0x000000000001e340                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001e340                __pthread_cond_destroy
+                0x000000000001e370                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001e370                __pthread_cond_init
+                0x000000000001e3a0                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001e3a0                __pthread_cond_signal
+                0x000000000001e3d0                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001e3d0                __pthread_cond_wait
+                0x000000000001e400                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001e400                __pthread_cond_timedwait
+                0x000000000001e430                pthread_exit
+                0x000000000001e430                __pthread_exit
+                0x000000000001e460                pthread_getschedparam
+                0x000000000001e490                pthread_setschedparam
+                0x000000000001e4c0                pthread_mutex_destroy
+                0x000000000001e4f0                pthread_mutex_init
+                0x000000000001e520                pthread_mutex_lock
+                0x000000000001e550                pthread_mutex_unlock
+                0x000000000001e580                pthread_self
+                0x000000000001e5b0                __pthread_setcancelstate
+                0x000000000001e5b0                pthread_setcancelstate
+                0x000000000001e5e0                pthread_setcanceltype
+ *fill*         0x000000000001e606        0xa 
+ .text          0x000000000001e610      0x135 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+                0x000000000001e610                __run_exit_handlers
+                0x000000000001e730                __GI_exit
+                0x000000000001e730                exit
+ *fill*         0x000000000001e745        0xb 
+ .text          0x000000000001e750      0x22f /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                0x000000000001e750                __new_exitfn
+                0x000000000001e8e0                __internal_atexit
+                0x000000000001e930                __cxa_atexit
+                0x000000000001e930                __GI___cxa_atexit
+ *fill*         0x000000000001e97f        0x1 
+ .text          0x000000000001e980      0x135 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                0x000000000001e980                __cxa_thread_atexit_impl
+                0x000000000001ea50                __GI___call_tls_dtors
+                0x000000000001ea50                __call_tls_dtors
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x1f3
+ .text.unlikely
+                0x0000000000000000      0x1f3 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.text.sse4.2    0x0000000000000000      0xda9
+ .text.sse4.2   0x0000000000000000      0xda9 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+                0x0000000000000000                __strcmp_sse42
+
+.text.ssse3     0x0000000000000000     0xaad3
+ .text.ssse3    0x0000000000000000     0x1259 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x29c6 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000001260                __memcpy_chk_ssse3
+                0x0000000000001270                __memcpy_ssse3
+ *fill*         0x0000000000003c26        0xa 
+ .text.ssse3    0x0000000000003c30     0x2b77 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000003c30                __memmove_chk_ssse3
+                0x0000000000003c40                __memmove_ssse3
+ *fill*         0x00000000000067a7        0x9 
+ .text.ssse3    0x00000000000067b0     0x2b16 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+                0x00000000000067b0                __memmove_chk_ssse3_back
+                0x00000000000067c0                __memmove_ssse3_back
+ *fill*         0x00000000000092c6        0xa 
+ .text.ssse3    0x00000000000092d0     0x1803 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+                0x00000000000092d0                __stpcpy_ssse3
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx       0x0000000000000000      0x886
+ .text.avx      0x0000000000000000      0x4eb /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+                0x0000000000000000                __memmove_chk_avx_unaligned
+                0x0000000000000010                __memmove_avx_unaligned
+ *fill*         0x00000000000004eb        0x5 
+ .text.avx      0x00000000000004f0      0x396 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+                0x00000000000004f0                __memcpy_chk_avx_unaligned
+                0x0000000000000500                __memcpy_avx_unaligned
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.avx2      0x0000000000000000      0x1a4
+ .text.avx2     0x0000000000000000      0x1a4 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+                0x0000000000000000                __memset_chk_avx2
+                0x0000000000000010                __memset_avx2
+
+.text.startup   0x0000000000000000      0x2a0
+ .text.startup  0x0000000000000000      0x2a0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x160
+ .text.compat   0x0000000000000000      0x160 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000     0x10a0
+ *(.rodata)
+ .rodata        0x0000000000000000      0xc70 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+                0x0000000000000c60                __GI__itoa_lower_digits
+                0x0000000000000c60                _itoa_lower_digits
+ .rodata        0x0000000000000c70       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .rodata        0x0000000000000cb0       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .rodata        0x0000000000000cf0       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000d30       0x80 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000db0       0x10 
+ .rodata        0x0000000000000dc0      0x2e0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000      0xfbe
+ .rodata.str1.1
+                0x0000000000000000      0xf4b /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000f4b       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000000f5f       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x0000000000000fa7       0x17 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x231d
+ .rodata.str1.8
+                0x0000000000000000     0x22e9 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ *fill*         0x00000000000022e9        0x7 
+ .rodata.str1.8
+                0x00000000000022f0       0x1d /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ *fill*         0x000000000000230d        0x3 
+ .rodata.str1.8
+                0x0000000000002310        0xd /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x3a1
+ .rodata.str1.16
+                0x0000000000000000      0x383 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ *fill*         0x0000000000000383        0xd 
+ .rodata.str1.16
+                0x0000000000000390       0x11 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0x880
+ .rodata.ssse3  0x0000000000000000      0x1c0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x39e0
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x21f0 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .eh_frame      0x00000000000021f0       0x68 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .eh_frame      0x0000000000002258       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002288       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x00000000000022d0       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002318       0x60 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000002378       0x50 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .eh_frame      0x00000000000023c8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .eh_frame      0x00000000000023f8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .eh_frame      0x0000000000002428       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002458       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000024a0       0x80 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .eh_frame      0x0000000000002520       0x90 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x00000000000025b0       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000025f8       0x88 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000002680       0x98 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+                                         0x90 (size before relaxing)
+ .eh_frame      0x0000000000002718       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x0000000000002748       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002778       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x00000000000027a8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x00000000000027d8       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002820       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002850       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002898       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000028e0       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002928       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002970       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000029b8       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002a00       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x0000000000002a30       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002a60       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x0000000000002a90       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000002ac0       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002b08       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002b50      0x1c8 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                                        0x1c0 (size before relaxing)
+ .eh_frame      0x0000000000002d18       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000002d58       0x68 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .eh_frame      0x0000000000002dc0       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000002e00       0x68 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000002e68       0x50 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x0000000000002eb8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000002ee8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000002f18       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000002f48       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000002f78       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .eh_frame      0x0000000000002fa8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .eh_frame      0x0000000000002fd8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .eh_frame      0x0000000000003008       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000003038       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000003068       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .eh_frame      0x0000000000003098       0x70 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000003108       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000003138       0x60 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .eh_frame      0x0000000000003198       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .eh_frame      0x00000000000031c8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .eh_frame      0x00000000000031f8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .eh_frame      0x0000000000003228       0x80 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .eh_frame      0x00000000000032a8       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x00000000000032d8       0x68 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x0000000000003340       0x48 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000003388       0xf0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000003478       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .eh_frame      0x00000000000034a8      0x3a8 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+                                        0x310 (size before relaxing)
+ .eh_frame      0x0000000000003850       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .eh_frame      0x00000000000038a8       0xb8 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                                         0xb0 (size before relaxing)
+ .eh_frame      0x0000000000003960       0x80 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000       0x18
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+ *fill*         0x0000000000000004        0x4 
+ .tbss          0x0000000000000008       0x10 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfc0
+ *(.data)
+ .data          0x0000000000000000      0xf80 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .data          0x0000000000000f80        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f80                __x86_raw_shared_cache_size
+                0x0000000000000f88                __x86_raw_shared_cache_size_half
+                0x0000000000000f90                __x86_shared_cache_size
+                0x0000000000000f98                __x86_shared_cache_size_half
+                0x0000000000000fa0                __x86_raw_data_cache_size
+                0x0000000000000fa8                __x86_raw_data_cache_size_half
+                0x0000000000000fb0                __x86_data_cache_size
+                0x0000000000000fb8                __x86_data_cache_size_half
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .data          0x0000000000000fc0        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.data.rel.ro    0x0000000000000000      0x2ac
+ .data.rel.ro   0x0000000000000000      0x2ac /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x0000000000000290                __stack_prot
+                0x0000000000000298                _dl_random
+                0x00000000000002a0                __libc_stack_end
+                0x00000000000002a0                __GI___libc_stack_end
+                0x00000000000002a8                __GI___libc_enable_secure
+                0x00000000000002a8                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x634
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x120 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+                0x00000000000000f8                __libc_multiple_libcs
+                0x0000000000000118                __curbrk
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000120        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000120        0x8 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+                0x0000000000000120                _environ
+                0x0000000000000120                __environ
+                0x0000000000000120                environ
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000128        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ *fill*         0x0000000000000128       0x18 
+ .bss           0x0000000000000140       0xe0 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .bss           0x0000000000000220        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .bss           0x0000000000000220      0x414 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .bss           0x0000000000000634        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+ *(COMMON)
+ COMMON         0x0000000000000634        0x0 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ COMMON         0x0000000000000634        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000634        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000634        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ COMMON         0x0000000000000634        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xcd6
+ *(.comment)
+ .comment       0x0000000000000000      0x73f /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .comment       0x000000000000073f       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .comment       0x0000000000000774       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .comment       0x00000000000007a9       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .comment       0x00000000000007de       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .comment       0x0000000000000813       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .comment       0x0000000000000848       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .comment       0x000000000000087d       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .comment       0x00000000000008b2       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .comment       0x00000000000008e7       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .comment       0x000000000000091c       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .comment       0x0000000000000951       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .comment       0x0000000000000986       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .comment       0x00000000000009bb       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .comment       0x00000000000009f0       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .comment       0x0000000000000a25       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .comment       0x0000000000000a5a       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000a8f       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .comment       0x0000000000000ac4       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .comment       0x0000000000000af9       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .comment       0x0000000000000b2e       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .comment       0x0000000000000b63       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000b98       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x0000000000000bcd       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000c02       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .comment       0x0000000000000c37       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .comment       0x0000000000000c6c       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .comment       0x0000000000000ca1       0x35 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1430
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x710 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000710       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x0000000000000740       0x20 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_aranges
+                0x0000000000000760       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x0000000000000790       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x00000000000007c0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x00000000000007f0       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x0000000000000830       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_aranges
+                0x0000000000000860       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x0000000000000890       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000008c0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x00000000000008f0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000920       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000950       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000980       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x00000000000009b0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x00000000000009e0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_aranges
+                0x0000000000000a10       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000a40       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000a70       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000aa0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000ad0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000b00       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000b30       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000b60       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000b90       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_aranges
+                0x0000000000000bc0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_aranges
+                0x0000000000000bf0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000c20       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000c50       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000c80       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000cb0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_aranges
+                0x0000000000000ce0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000d10       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_aranges
+                0x0000000000000d40       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000d70       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000000db0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000000de0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x0000000000000e10       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x0000000000000e40       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x0000000000000e70       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x0000000000000ea0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000000ed0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000000f00       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x0000000000000f30       0x20 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_aranges
+                0x0000000000000f50       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x0000000000000f80       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000000fb0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000000fe0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_aranges
+                0x0000000000001010       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_aranges
+                0x0000000000001040       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_aranges
+                0x0000000000001070       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_aranges
+                0x00000000000010a0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x00000000000010d0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_aranges
+                0x0000000000001100       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_aranges
+                0x0000000000001130       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x0000000000001160       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x0000000000001190       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_aranges
+                0x00000000000011c0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x00000000000011f0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x0000000000001220       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001250       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x0000000000001280       0x20 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x00000000000012a0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x00000000000012d0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x0000000000001300       0xa0 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_aranges
+                0x00000000000013a0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_aranges
+                0x00000000000013d0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_aranges
+                0x0000000000001400       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x6a324
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x53810 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_info    0x0000000000053810      0x8d7 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_info    0x00000000000540e7      0x4ff /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_info    0x00000000000545e6       0x6b /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_info    0x0000000000054651       0x6e /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_info    0x00000000000546bf       0x75 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_info    0x0000000000054734       0x69 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_info    0x000000000005479d      0x1b1 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_info    0x000000000005494e       0x6b /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_info    0x00000000000549b9       0x6b /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_info    0x0000000000054a24       0x6b /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_info    0x0000000000054a8f       0x75 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_info    0x0000000000054b04     0x1c08 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_info    0x000000000005670c       0x75 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_info    0x0000000000056781       0x75 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_info    0x00000000000567f6       0x75 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_info    0x000000000005686b      0x44d /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_info    0x0000000000056cb8       0x6e /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x0000000000056d26       0x78 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x0000000000056d9e       0x84 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_info    0x0000000000056e22       0x7a /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x0000000000056e9c       0x7b /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x0000000000056f17       0x84 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_info    0x0000000000056f9b       0x8a /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_info    0x0000000000057025       0x7b /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x00000000000570a0       0x83 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_info    0x0000000000057123       0x83 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_info    0x00000000000571a6       0x80 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x0000000000057226       0x8a /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000572b0       0x7b /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_info    0x000000000005732b       0x84 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_info    0x00000000000573af       0x81 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_info    0x0000000000057430       0x7b /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_info    0x00000000000574ab       0x7a /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_info    0x0000000000057525       0x8a /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000575af     0x2900 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_info    0x0000000000059eaf      0x65c /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_info    0x000000000005a50b      0x719 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_info    0x000000000005ac24      0x63f /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_info    0x000000000005b263      0x79f /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_info    0x000000000005ba02      0x7e0 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_info    0x000000000005c1e2       0x72 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_info    0x000000000005c254      0x5c1 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_info    0x000000000005c815      0x63d /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_info    0x000000000005ce52       0xbd /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_info    0x000000000005cf0f      0x724 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_info    0x000000000005d633      0x723 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_info    0x000000000005dd56      0x724 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_info    0x000000000005e47a       0x6f /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_info    0x000000000005e4e9       0x6f /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_info    0x000000000005e558       0x6f /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_info    0x000000000005e5c7       0x6f /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_info    0x000000000005e636      0x9aa /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_info    0x000000000005efe0       0x6f /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_info    0x000000000005f04f     0x1c04 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_info    0x0000000000060c53       0x71 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_info    0x0000000000060cc4       0x71 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_info    0x0000000000060d35       0x71 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_info    0x0000000000060da6      0xf0e /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_info    0x0000000000061cb4     0x19c0 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_info    0x0000000000063674       0x7f /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x00000000000636f3       0x7f /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x0000000000063772      0x5d3 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x0000000000063d45      0xab5 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_info    0x00000000000647fa       0x71 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_info    0x000000000006486b     0x2ae3 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_info    0x000000000006734e     0x1006 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_info    0x0000000000068354      0x95a /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_info    0x0000000000068cae     0x1676 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_abbrev   0x0000000000000000     0xc1d1
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x8720 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000008720      0x22a /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x000000000000894a       0xfe /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_abbrev  0x0000000000008a48       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x0000000000008a5c       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x0000000000008a70       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x0000000000008a84       0x12 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x0000000000008a96      0x134 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_abbrev  0x0000000000008bca       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_abbrev  0x0000000000008bde       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x0000000000008bf2       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x0000000000008c06       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x0000000000008c1a      0x320 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_abbrev  0x0000000000008f3a       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_abbrev  0x0000000000008f4e       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x0000000000008f62       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x0000000000008f76       0xfb /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_abbrev  0x0000000000009071       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x0000000000009085       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x0000000000009099       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_abbrev  0x00000000000090ad       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x00000000000090c1       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x00000000000090d5       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_abbrev  0x00000000000090e9       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x00000000000090fd       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x0000000000009111       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_abbrev  0x0000000000009125       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_abbrev  0x0000000000009139       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x000000000000914d       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x0000000000009161       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_abbrev  0x0000000000009175       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_abbrev  0x0000000000009189       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_abbrev  0x000000000000919d       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_abbrev  0x00000000000091b1       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_abbrev  0x00000000000091c5       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x00000000000091d9      0x46a /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x0000000000009643      0x1b0 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x00000000000097f3      0x1c4 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_abbrev  0x00000000000099b7      0x183 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x0000000000009b3a      0x1eb /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_abbrev  0x0000000000009d25      0x1af /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x0000000000009ed4       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_abbrev  0x0000000000009ee8      0x176 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x000000000000a05e      0x1ab /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x000000000000a209       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_abbrev  0x000000000000a249      0x16c /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_abbrev  0x000000000000a3b5      0x16c /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x000000000000a521      0x16c /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x000000000000a68d       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_abbrev  0x000000000000a6a1       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_abbrev  0x000000000000a6b5       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_abbrev  0x000000000000a6c9       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_abbrev  0x000000000000a6dd      0x2ae /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x000000000000a98b       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_abbrev  0x000000000000a99f      0x2d3 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_abbrev  0x000000000000ac72       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_abbrev  0x000000000000ac86       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x000000000000ac9a       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_abbrev  0x000000000000acae      0x2f8 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_abbrev  0x000000000000afa6      0x25e /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x000000000000b204       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x000000000000b218       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x000000000000b22c      0x145 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x000000000000b371      0x209 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x000000000000b57a       0x14 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x000000000000b58e      0x3c5 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_abbrev  0x000000000000b953      0x2a9 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_abbrev  0x000000000000bbfc      0x2d2 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_abbrev  0x000000000000bece      0x303 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_line     0x0000000000000000    0x13c1d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0xaee8 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_line    0x000000000000aee8      0x205 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_line    0x000000000000b0ed      0x100 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_line    0x000000000000b1ed       0x60 /home/jungjae/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_line    0x000000000000b24d       0x61 /home/jungjae/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_line    0x000000000000b2ae      0x110 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_line    0x000000000000b3be      0x7b6 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_line    0x000000000000bb74       0xb1 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_line    0x000000000000bc25       0x98 /home/jungjae/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_line    0x000000000000bcbd       0x98 /home/jungjae/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_line    0x000000000000bd55      0x117 /home/jungjae/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_line    0x000000000000be6c      0x190 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_line    0x000000000000bffc      0x325 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_line    0x000000000000c321       0xd8 /home/jungjae/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_line    0x000000000000c3f9       0xd7 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_line    0x000000000000c4d0      0x1b2 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000000c682      0x1a8 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_line    0x000000000000c82a       0xc8 /home/jungjae/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x000000000000c8f2      0x45f /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x000000000000cd51      0x10c /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_line    0x000000000000ce5d      0x500 /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x000000000000d35d      0x942 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x000000000000dc9f       0xe3 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_line    0x000000000000dd82      0x1ac /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000000df2e      0x99b /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x000000000000e8c9      0x180 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_line    0x000000000000ea49      0x136 /home/jungjae/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_line    0x000000000000eb7f      0x882 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x000000000000f401      0x1ac /home/jungjae/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000000f5ad      0x627 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_line    0x000000000000fbd4      0x1e2 /home/jungjae/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_line    0x000000000000fdb6      0x111 /home/jungjae/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_line    0x000000000000fec7      0x5cd /home/jungjae/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_line    0x0000000000010494       0xc1 /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_line    0x0000000000010555       0xeb /home/jungjae/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_line    0x0000000000010640      0x53e /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_line    0x0000000000010b7e      0x1ff /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_line    0x0000000000010d7d      0x224 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_line    0x0000000000010fa1      0x1de /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_line    0x000000000001117f      0x210 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_line    0x000000000001138f      0x258 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_line    0x00000000000115e7       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_line    0x000000000001163f      0x154 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_line    0x0000000000011793      0x15f /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_line    0x00000000000118f2       0x2a /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_line    0x000000000001191c      0x19f /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_line    0x0000000000011abb      0x1a0 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_line    0x0000000000011c5b      0x1a0 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_line    0x0000000000011dfb       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_line    0x0000000000011e55       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_line    0x0000000000011eaf       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_line    0x0000000000011f09       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_line    0x0000000000011f61      0x235 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_line    0x0000000000012196       0x5a /home/jungjae/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_line    0x00000000000121f0      0x2ae /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_line    0x000000000001249e       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_line    0x00000000000124f6       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_line    0x000000000001254e       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_line    0x00000000000125a6      0x2f2 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_line    0x0000000000012898      0x275 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000000000012b0d       0x81 /home/jungjae/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x0000000000012b8e       0x8b /home/jungjae/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x0000000000012c19      0x15a /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x0000000000012d73      0x29f /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_line    0x0000000000013012       0x58 /home/jungjae/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_line    0x000000000001306a      0x48f /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_line    0x00000000000134f9      0x231 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_line    0x000000000001372a      0x20b /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_line    0x0000000000013935      0x2e8 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x3daff
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x2e279 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_str     0x000000000002e279      0x63c /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_str     0x000000000002e8b5      0x475 /home/jungjae/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_str     0x000000000002ed2a      0x1ef /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_str     0x000000000002ef19     0x1258 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_str     0x0000000000030171      0x1de /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_str     0x000000000003034f     0x2322 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_str     0x0000000000032671      0x507 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_str     0x0000000000032b78      0x594 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_str     0x000000000003310c      0x52b /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_str     0x0000000000033637      0x5b3 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_str     0x0000000000033bea      0x642 /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_str     0x000000000003422c      0x4b5 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_str     0x00000000000346e1      0x504 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_str     0x0000000000034be5      0x17a /home/jungjae/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_str     0x0000000000034d5f      0x5d8 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_str     0x0000000000035337      0x5d6 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_str     0x000000000003590d      0x5db /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_str     0x0000000000035ee8      0x652 /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_str     0x000000000003653a     0x11af /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_str     0x00000000000376e9      0x9e1 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_str     0x00000000000380ca     0x1175 /home/jungjae/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000003923f      0x5e5 /home/jungjae/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x0000000000039824      0x783 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_str     0x0000000000039fa7     0x1a66 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_str     0x000000000003ba0d      0xa7f /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_str     0x000000000003c48c      0x5b3 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_str     0x000000000003ca3f     0x10c0 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_loc      0x0000000000000000    0x35d35
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x2e700 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_loc     0x000000000002e700      0x1fb /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_loc     0x000000000002e8fb      0x107 /home/jungjae/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_loc     0x000000000002ea02      0x651 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_loc     0x000000000002f053      0xff2 /home/jungjae/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_loc     0x0000000000030045     0x179b /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x00000000000317e0      0x141 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_loc     0x0000000000031921      0x1d6 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_loc     0x0000000000031af7       0x4c /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x0000000000031b43      0x34d /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_loc     0x0000000000031e90       0xbe /home/jungjae/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x0000000000031f4e      0x158 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_loc     0x00000000000320a6       0xeb /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_loc     0x0000000000032191      0x1de /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_loc     0x000000000003236f      0x1d3 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_loc     0x0000000000032542      0x1de /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_loc     0x0000000000032720      0x4cf /home/jungjae/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_loc     0x0000000000032bef      0x706 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_loc     0x00000000000332f5      0x2f6 /home/jungjae/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_loc     0x00000000000335eb      0x3a0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_loc     0x000000000003398b     0x18a4 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_loc     0x000000000003522f      0x1bb /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_loc     0x00000000000353ea      0x6f5 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_loc     0x0000000000035adf      0x256 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x81b0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x7720 /home/jungjae/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000007720       0x70 /home/jungjae/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_ranges  0x0000000000007790       0x40 /home/jungjae/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_ranges  0x00000000000077d0       0xd0 /home/jungjae/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_ranges  0x00000000000078a0      0x2c0 /home/jungjae/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x0000000000007b60       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_ranges  0x0000000000007b90       0xd0 /home/jungjae/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_ranges  0x0000000000007c60       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x0000000000007c90       0xd0 /home/jungjae/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_ranges  0x0000000000007d60       0x90 /home/jungjae/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000007df0       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_ranges  0x0000000000007e20       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000007e50       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000007e80       0x30 /home/jungjae/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_ranges  0x0000000000007eb0       0xe0 /home/jungjae/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_ranges  0x0000000000007f90       0xb0 /home/jungjae/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x0000000000008040       0x90 /home/jungjae/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_ranges  0x00000000000080d0       0x60 /home/jungjae/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_ranges  0x0000000000008130       0x80 /home/jungjae/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/jungjae/glibc-2.23/build/elf/librtld.map.o elf64-x86-64)
